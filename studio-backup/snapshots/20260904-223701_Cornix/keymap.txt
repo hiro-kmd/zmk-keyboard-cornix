@@ -1,0 +1,177 @@
+zmkbak snapshot  2026-09-04T22:37:01   device=Cornix serial=cec6b48afd8245ce
+layout='LAYOUT_50'  keys=50  layers=3  unsaved_changes_at_capture=False
+note: 初回バックアップ (Studio で編集した配列)
+
+=== layer 0  id=0  "Base" ===
+     &kp TAB     |     &kp Q      |     &kp W      |     &kp E      |     &kp R      |     &kp T      |       ||       |     &kp Y      |     &kp U      |     &kp I      |     &kp O      |     &kp P      |    &kp BSPC   
+   &kp LC(SPC)   |     &kp A      |     &kp S      |     &kp D      |     &kp F      |     &kp G      |       ||       |     &kp H      |     &kp J      |     &kp K      |     &kp L      |    &kp FSLH    |   &kp ENTER   
+    &kp LSHIFT   |     &kp Z      |     &kp X      |     &kp C      |     &kp V      |     &kp B      |     &to 0      |     &none      |     &kp N      |     &kp M      |    &kp CMMA    |    &kp DOT     |    &kp UARW    |    &kp BSPC   
+    &kp LCTRL    | &kp LEFT_META  |    &kp LALT    |     &mo 1      |    &kp SPC     |  &kp LG(SPC)   |       ||       |   &kp ENTER    |    &kp SPC     |     &mo 2      |    &kp LEFT    |    &kp DOWN    |   &kp RIGHT   
+
+  pos  binding                      behavior            raw
+    0  &kp TAB                      Key Press           id=5 p1=458795 p2=0
+    1  &kp Q                        Key Press           id=5 p1=458772 p2=0
+    2  &kp W                        Key Press           id=5 p1=458778 p2=0
+    3  &kp E                        Key Press           id=5 p1=458760 p2=0
+    4  &kp R                        Key Press           id=5 p1=458773 p2=0
+    5  &kp T                        Key Press           id=5 p1=458775 p2=0
+    6  &kp Y                        Key Press           id=5 p1=458780 p2=0
+    7  &kp U                        Key Press           id=5 p1=458776 p2=0
+    8  &kp I                        Key Press           id=5 p1=458764 p2=0
+    9  &kp O                        Key Press           id=5 p1=458770 p2=0
+   10  &kp P                        Key Press           id=5 p1=458771 p2=0
+   11  &kp BSPC                     Key Press           id=5 p1=458794 p2=0
+   12  &kp LC(SPC)                  Key Press           id=5 p1=17236012 p2=0
+   13  &kp A                        Key Press           id=5 p1=458756 p2=0
+   14  &kp S                        Key Press           id=5 p1=458774 p2=0
+   15  &kp D                        Key Press           id=5 p1=458759 p2=0
+   16  &kp F                        Key Press           id=5 p1=458761 p2=0
+   17  &kp G                        Key Press           id=5 p1=458762 p2=0
+   18  &kp H                        Key Press           id=5 p1=458763 p2=0
+   19  &kp J                        Key Press           id=5 p1=458765 p2=0
+   20  &kp K                        Key Press           id=5 p1=458766 p2=0
+   21  &kp L                        Key Press           id=5 p1=458767 p2=0
+   22  &kp FSLH                     Key Press           id=5 p1=458808 p2=0
+   23  &kp ENTER                    Key Press           id=5 p1=458792 p2=0
+   24  &kp LSHIFT                   Key Press           id=5 p1=458977 p2=0
+   25  &kp Z                        Key Press           id=5 p1=458781 p2=0
+   26  &kp X                        Key Press           id=5 p1=458779 p2=0
+   27  &kp C                        Key Press           id=5 p1=458758 p2=0
+   28  &kp V                        Key Press           id=5 p1=458777 p2=0
+   29  &kp B                        Key Press           id=5 p1=458757 p2=0
+   30  &to 0                        To Layer            id=27 p1=0 p2=0
+   31  &none                        None                id=26 p1=0 p2=0
+   32  &kp N                        Key Press           id=5 p1=458769 p2=0
+   33  &kp M                        Key Press           id=5 p1=458768 p2=0
+   34  &kp CMMA                     Key Press           id=5 p1=458806 p2=0
+   35  &kp DOT                      Key Press           id=5 p1=458807 p2=0
+   36  &kp UARW                     Key Press           id=5 p1=458834 p2=0
+   37  &kp BSPC                     Key Press           id=5 p1=458794 p2=0
+   38  &kp LCTRL                    Key Press           id=5 p1=458976 p2=0
+   39  &kp LEFT_META                Key Press           id=5 p1=458979 p2=0
+   40  &kp LALT                     Key Press           id=5 p1=458978 p2=0
+   41  &mo 1                        Momentary Layer     id=13 p1=1 p2=0
+   42  &kp SPC                      Key Press           id=5 p1=458796 p2=0
+   43  &kp LG(SPC)                  Key Press           id=5 p1=134676524 p2=0
+   44  &kp ENTER                    Key Press           id=5 p1=458792 p2=0
+   45  &kp SPC                      Key Press           id=5 p1=458796 p2=0
+   46  &mo 2                        Momentary Layer     id=13 p1=2 p2=0
+   47  &kp LEFT                     Key Press           id=5 p1=458832 p2=0
+   48  &kp DOWN                     Key Press           id=5 p1=458833 p2=0
+   49  &kp RIGHT                    Key Press           id=5 p1=458831 p2=0
+
+=== layer 1  id=1  "Windows" ===
+     &kp ESC     |     &kp N1     |     &kp N2     |     &kp N3     |     &kp N4     |     &kp N5     |       ||       |     &kp N6     |     &kp N7     |     &kp N8     |     &kp N9     |     &kp N0     |     &trans    
+    &bt BT_NXT   | &homerow_mods_left LCTRL A | &homerow_mods_left LALT S | &homerow_mods_left LCTRL D | &hm_shift_l LSHIFT F |     &trans     |       ||       |    &kp EQL     |    &kp SEMI    |   &kp MINUS    | &kp APOSTROPHE |    &kp DQT     |     &trans    
+    &kp LSHIFT   |     &trans     |     &trans     |     &trans     |     &trans     |     &trans     |     &to 0      |     &trans     |     &trans     |     &trans     |     &trans     |     &trans     |     &trans     |     &trans    
+      &none      |     &none      |     &none      |     &trans     |     &trans     |     &trans     |       ||       |     &trans     |     &trans     |     &trans     |     &none      |     &none      |     &none     
+
+  pos  binding                      behavior            raw
+    0  &kp ESC                      Key Press           id=5 p1=458793 p2=0
+    1  &kp N1                       Key Press           id=5 p1=458782 p2=0
+    2  &kp N2                       Key Press           id=5 p1=458783 p2=0
+    3  &kp N3                       Key Press           id=5 p1=458784 p2=0
+    4  &kp N4                       Key Press           id=5 p1=458785 p2=0
+    5  &kp N5                       Key Press           id=5 p1=458786 p2=0
+    6  &kp N6                       Key Press           id=5 p1=458787 p2=0
+    7  &kp N7                       Key Press           id=5 p1=458788 p2=0
+    8  &kp N8                       Key Press           id=5 p1=458789 p2=0
+    9  &kp N9                       Key Press           id=5 p1=458790 p2=0
+   10  &kp N0                       Key Press           id=5 p1=458791 p2=0
+   11  &trans                       Transparent         id=29 p1=0 p2=0
+   12  &bt BT_NXT                   Bluetooth           id=17 p1=1 p2=0
+   13  &homerow_mods_left LCTRL A   homerow_mods_left   id=23 p1=458976 p2=458756
+   14  &homerow_mods_left LALT S    homerow_mods_left   id=23 p1=458978 p2=458774
+   15  &homerow_mods_left LCTRL D   homerow_mods_left   id=23 p1=458976 p2=458759
+   16  &hm_shift_l LSHIFT F         hm_shift_l          id=21 p1=458977 p2=458761
+   17  &trans                       Transparent         id=29 p1=0 p2=0
+   18  &kp EQL                      Key Press           id=5 p1=458798 p2=0
+   19  &kp SEMI                     Key Press           id=5 p1=458803 p2=0
+   20  &kp MINUS                    Key Press           id=5 p1=458797 p2=0
+   21  &kp APOSTROPHE               Key Press           id=5 p1=458804 p2=0
+   22  &kp DQT                      Key Press           id=5 p1=34013236 p2=0
+   23  &trans                       Transparent         id=29 p1=0 p2=0
+   24  &kp LSHIFT                   Key Press           id=5 p1=458977 p2=0
+   25  &trans                       Transparent         id=29 p1=0 p2=0
+   26  &trans                       Transparent         id=29 p1=0 p2=0
+   27  &trans                       Transparent         id=29 p1=0 p2=0
+   28  &trans                       Transparent         id=29 p1=0 p2=0
+   29  &trans                       Transparent         id=29 p1=0 p2=0
+   30  &to 0                        To Layer            id=27 p1=0 p2=0
+   31  &trans                       Transparent         id=29 p1=0 p2=0
+   32  &trans                       Transparent         id=29 p1=0 p2=0
+   33  &trans                       Transparent         id=29 p1=0 p2=0
+   34  &trans                       Transparent         id=29 p1=0 p2=0
+   35  &trans                       Transparent         id=29 p1=0 p2=0
+   36  &trans                       Transparent         id=29 p1=0 p2=0
+   37  &trans                       Transparent         id=29 p1=0 p2=0
+   38  &none                        None                id=26 p1=0 p2=0
+   39  &none                        None                id=26 p1=0 p2=0
+   40  &none                        None                id=26 p1=0 p2=0
+   41  &trans                       Transparent         id=29 p1=0 p2=0
+   42  &trans                       Transparent         id=29 p1=0 p2=0
+   43  &trans                       Transparent         id=29 p1=0 p2=0
+   44  &trans                       Transparent         id=29 p1=0 p2=0
+   45  &trans                       Transparent         id=29 p1=0 p2=0
+   46  &trans                       Transparent         id=29 p1=0 p2=0
+   47  &none                        None                id=26 p1=0 p2=0
+   48  &none                        None                id=26 p1=0 p2=0
+   49  &none                        None                id=26 p1=0 p2=0
+
+=== layer 2  id=2  "Symbols" ===
+      &none      |    &kp EXCL    |    &kp ATSN    |    &kp HASH    |    &kp DLLR    |   &kp PRCNT    |       ||       |    &kp CRRT    |    &kp AMPS    |   &kp ASTRK    |    &kp LPAR    |    &kp RPAR    |    &kp PIPE   
+      &none      |     &none      |    &kp LBKT    |    &kp RBKT    |    &kp LBRC    |    &kp RBRC    |       ||       |    &kp EQL     |   &kp UNDER    |   &kp MINUS    |    &kp PLUS    |    &kp DQT     | &kp APOSTROPHE
+      &none      |     &none      |    &kp RBKT    |    &kp RPAR    |    &kp PIPE    |    &kp BSLH    |     &to 0      |     &trans     |    &kp FSLH    |   &kp QMARK    |    &kp GRAV    |    &kp TILD    | &kp APOSTROPHE |     &none     
+      &none      |     &none      |     &none      |     &none      |     &trans     |     &trans     |       ||       |    &kp TILD    |     &trans     |    &kp GRAV    |     &none      |     &none      |     &none     
+
+  pos  binding                      behavior            raw
+    0  &none                        None                id=26 p1=0 p2=0
+    1  &kp EXCL                     Key Press           id=5 p1=34013214 p2=0
+    2  &kp ATSN                     Key Press           id=5 p1=34013215 p2=0
+    3  &kp HASH                     Key Press           id=5 p1=34013216 p2=0
+    4  &kp DLLR                     Key Press           id=5 p1=34013217 p2=0
+    5  &kp PRCNT                    Key Press           id=5 p1=34013218 p2=0
+    6  &kp CRRT                     Key Press           id=5 p1=34013219 p2=0
+    7  &kp AMPS                     Key Press           id=5 p1=34013220 p2=0
+    8  &kp ASTRK                    Key Press           id=5 p1=34013221 p2=0
+    9  &kp LPAR                     Key Press           id=5 p1=34013222 p2=0
+   10  &kp RPAR                     Key Press           id=5 p1=34013223 p2=0
+   11  &kp PIPE                     Key Press           id=5 p1=34013233 p2=0
+   12  &none                        None                id=26 p1=0 p2=0
+   13  &none                        None                id=26 p1=0 p2=0
+   14  &kp LBKT                     Key Press           id=5 p1=458799 p2=0
+   15  &kp RBKT                     Key Press           id=5 p1=458800 p2=0
+   16  &kp LBRC                     Key Press           id=5 p1=34013231 p2=0
+   17  &kp RBRC                     Key Press           id=5 p1=34013232 p2=0
+   18  &kp EQL                      Key Press           id=5 p1=458798 p2=0
+   19  &kp UNDER                    Key Press           id=5 p1=34013229 p2=0
+   20  &kp MINUS                    Key Press           id=5 p1=458797 p2=0
+   21  &kp PLUS                     Key Press           id=5 p1=34013230 p2=0
+   22  &kp DQT                      Key Press           id=5 p1=34013236 p2=0
+   23  &kp APOSTROPHE               Key Press           id=5 p1=458804 p2=0
+   24  &none                        None                id=26 p1=0 p2=0
+   25  &none                        None                id=26 p1=0 p2=0
+   26  &kp RBKT                     Key Press           id=5 p1=458800 p2=0
+   27  &kp RPAR                     Key Press           id=5 p1=34013223 p2=0
+   28  &kp PIPE                     Key Press           id=5 p1=34013233 p2=0
+   29  &kp BSLH                     Key Press           id=5 p1=458801 p2=0
+   30  &to 0                        To Layer            id=27 p1=0 p2=0
+   31  &trans                       Transparent         id=29 p1=0 p2=0
+   32  &kp FSLH                     Key Press           id=5 p1=458808 p2=0
+   33  &kp QMARK                    Key Press           id=5 p1=34013240 p2=0
+   34  &kp GRAV                     Key Press           id=5 p1=458805 p2=0
+   35  &kp TILD                     Key Press           id=5 p1=34013237 p2=0
+   36  &kp APOSTROPHE               Key Press           id=5 p1=458804 p2=0
+   37  &none                        None                id=26 p1=0 p2=0
+   38  &none                        None                id=26 p1=0 p2=0
+   39  &none                        None                id=26 p1=0 p2=0
+   40  &none                        None                id=26 p1=0 p2=0
+   41  &none                        None                id=26 p1=0 p2=0
+   42  &trans                       Transparent         id=29 p1=0 p2=0
+   43  &trans                       Transparent         id=29 p1=0 p2=0
+   44  &kp TILD                     Key Press           id=5 p1=34013237 p2=0
+   45  &trans                       Transparent         id=29 p1=0 p2=0
+   46  &kp GRAV                     Key Press           id=5 p1=458805 p2=0
+   47  &none                        None                id=26 p1=0 p2=0
+   48  &none                        None                id=26 p1=0 p2=0
+   49  &none                        None                id=26 p1=0 p2=0

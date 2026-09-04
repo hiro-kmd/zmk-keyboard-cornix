@@ -1,0 +1,2273 @@
+{
+  "schema": 1,
+  "tool": "zmkbak",
+  "tool_version": "1.0.0",
+  "captured_at": "2026-09-04T22:37:01",
+  "note": "初回バックアップ (Studio で編集した配列)",
+  "port": "COM11",
+  "unsaved_changes": false,
+  "device": {
+    "name": "Cornix",
+    "serial_hex": "cec6b48afd8245ce"
+  },
+  "physical_layout": {
+    "active_index": 0,
+    "name": "LAYOUT_50",
+    "key_count": 50,
+    "keys": [
+      {
+        "width": 100,
+        "height": 100,
+        "y": 50,
+        "x": 0,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 100,
+        "y": 50,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 200,
+        "y": 25,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 300,
+        "y": 0,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 400,
+        "y": 25,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 500,
+        "y": 50,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 850,
+        "y": 50,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 950,
+        "y": 30,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1050,
+        "y": 0,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1150,
+        "y": 33,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1250,
+        "y": 50,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1350,
+        "y": 50,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "y": 150,
+        "x": 0,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 100,
+        "y": 150,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 200,
+        "y": 125,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 300,
+        "y": 100,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 400,
+        "y": 125,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 500,
+        "y": 150,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 850,
+        "y": 150,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 950,
+        "y": 130,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1050,
+        "y": 100,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1150,
+        "y": 133,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1250,
+        "y": 150,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1350,
+        "y": 150,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "y": 255,
+        "x": 0,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 100,
+        "y": 255,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 200,
+        "y": 225,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 300,
+        "y": 200,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 400,
+        "y": 225,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 500,
+        "y": 255,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 600,
+        "y": 200,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 750,
+        "y": 200,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 850,
+        "y": 255,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 950,
+        "y": 230,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1050,
+        "y": 200,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1150,
+        "y": 233,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1250,
+        "y": 255,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1350,
+        "y": 255,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "y": 355,
+        "x": 0,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 100,
+        "y": 355,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 200,
+        "y": 330,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 350,
+        "y": 363,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 450,
+        "y": 370,
+        "r": 1193,
+        "rx": 500,
+        "ry": 475
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 550,
+        "y": 365,
+        "r": 2300,
+        "rx": 500,
+        "ry": 475
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 764,
+        "y": 538,
+        "r": -2300,
+        "rx": 500,
+        "ry": 475
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 900,
+        "y": 375,
+        "r": -1193,
+        "rx": 925,
+        "ry": 475
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1000,
+        "y": 363,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1150,
+        "y": 338,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1250,
+        "y": 355,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      },
+      {
+        "width": 100,
+        "height": 100,
+        "x": 1350,
+        "y": 355,
+        "r": 0,
+        "rx": 0,
+        "ry": 0
+      }
+    ]
+  },
+  "keymap": {
+    "available_layers": 5,
+    "layers": [
+      {
+        "index": 0,
+        "id": 0,
+        "name": "Base",
+        "bindings": [
+          {
+            "pos": 0,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458795,
+            "param2": 0,
+            "zmk": "&kp TAB"
+          },
+          {
+            "pos": 1,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458772,
+            "param2": 0,
+            "zmk": "&kp Q"
+          },
+          {
+            "pos": 2,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458778,
+            "param2": 0,
+            "zmk": "&kp W"
+          },
+          {
+            "pos": 3,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458760,
+            "param2": 0,
+            "zmk": "&kp E"
+          },
+          {
+            "pos": 4,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458773,
+            "param2": 0,
+            "zmk": "&kp R"
+          },
+          {
+            "pos": 5,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458775,
+            "param2": 0,
+            "zmk": "&kp T"
+          },
+          {
+            "pos": 6,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458780,
+            "param2": 0,
+            "zmk": "&kp Y"
+          },
+          {
+            "pos": 7,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458776,
+            "param2": 0,
+            "zmk": "&kp U"
+          },
+          {
+            "pos": 8,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458764,
+            "param2": 0,
+            "zmk": "&kp I"
+          },
+          {
+            "pos": 9,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458770,
+            "param2": 0,
+            "zmk": "&kp O"
+          },
+          {
+            "pos": 10,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458771,
+            "param2": 0,
+            "zmk": "&kp P"
+          },
+          {
+            "pos": 11,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458794,
+            "param2": 0,
+            "zmk": "&kp BSPC"
+          },
+          {
+            "pos": 12,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 17236012,
+            "param2": 0,
+            "zmk": "&kp LC(SPC)"
+          },
+          {
+            "pos": 13,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458756,
+            "param2": 0,
+            "zmk": "&kp A"
+          },
+          {
+            "pos": 14,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458774,
+            "param2": 0,
+            "zmk": "&kp S"
+          },
+          {
+            "pos": 15,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458759,
+            "param2": 0,
+            "zmk": "&kp D"
+          },
+          {
+            "pos": 16,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458761,
+            "param2": 0,
+            "zmk": "&kp F"
+          },
+          {
+            "pos": 17,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458762,
+            "param2": 0,
+            "zmk": "&kp G"
+          },
+          {
+            "pos": 18,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458763,
+            "param2": 0,
+            "zmk": "&kp H"
+          },
+          {
+            "pos": 19,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458765,
+            "param2": 0,
+            "zmk": "&kp J"
+          },
+          {
+            "pos": 20,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458766,
+            "param2": 0,
+            "zmk": "&kp K"
+          },
+          {
+            "pos": 21,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458767,
+            "param2": 0,
+            "zmk": "&kp L"
+          },
+          {
+            "pos": 22,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458808,
+            "param2": 0,
+            "zmk": "&kp FSLH"
+          },
+          {
+            "pos": 23,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458792,
+            "param2": 0,
+            "zmk": "&kp ENTER"
+          },
+          {
+            "pos": 24,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458977,
+            "param2": 0,
+            "zmk": "&kp LSHIFT"
+          },
+          {
+            "pos": 25,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458781,
+            "param2": 0,
+            "zmk": "&kp Z"
+          },
+          {
+            "pos": 26,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458779,
+            "param2": 0,
+            "zmk": "&kp X"
+          },
+          {
+            "pos": 27,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458758,
+            "param2": 0,
+            "zmk": "&kp C"
+          },
+          {
+            "pos": 28,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458777,
+            "param2": 0,
+            "zmk": "&kp V"
+          },
+          {
+            "pos": 29,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458757,
+            "param2": 0,
+            "zmk": "&kp B"
+          },
+          {
+            "pos": 30,
+            "behavior_id": 27,
+            "behavior_name": "To Layer",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&to 0"
+          },
+          {
+            "pos": 31,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 32,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458769,
+            "param2": 0,
+            "zmk": "&kp N"
+          },
+          {
+            "pos": 33,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458768,
+            "param2": 0,
+            "zmk": "&kp M"
+          },
+          {
+            "pos": 34,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458806,
+            "param2": 0,
+            "zmk": "&kp CMMA"
+          },
+          {
+            "pos": 35,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458807,
+            "param2": 0,
+            "zmk": "&kp DOT"
+          },
+          {
+            "pos": 36,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458834,
+            "param2": 0,
+            "zmk": "&kp UARW"
+          },
+          {
+            "pos": 37,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458794,
+            "param2": 0,
+            "zmk": "&kp BSPC"
+          },
+          {
+            "pos": 38,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458976,
+            "param2": 0,
+            "zmk": "&kp LCTRL"
+          },
+          {
+            "pos": 39,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458979,
+            "param2": 0,
+            "zmk": "&kp LEFT_META"
+          },
+          {
+            "pos": 40,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458978,
+            "param2": 0,
+            "zmk": "&kp LALT"
+          },
+          {
+            "pos": 41,
+            "behavior_id": 13,
+            "behavior_name": "Momentary Layer",
+            "param1": 1,
+            "param2": 0,
+            "zmk": "&mo 1"
+          },
+          {
+            "pos": 42,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458796,
+            "param2": 0,
+            "zmk": "&kp SPC"
+          },
+          {
+            "pos": 43,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 134676524,
+            "param2": 0,
+            "zmk": "&kp LG(SPC)"
+          },
+          {
+            "pos": 44,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458792,
+            "param2": 0,
+            "zmk": "&kp ENTER"
+          },
+          {
+            "pos": 45,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458796,
+            "param2": 0,
+            "zmk": "&kp SPC"
+          },
+          {
+            "pos": 46,
+            "behavior_id": 13,
+            "behavior_name": "Momentary Layer",
+            "param1": 2,
+            "param2": 0,
+            "zmk": "&mo 2"
+          },
+          {
+            "pos": 47,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458832,
+            "param2": 0,
+            "zmk": "&kp LEFT"
+          },
+          {
+            "pos": 48,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458833,
+            "param2": 0,
+            "zmk": "&kp DOWN"
+          },
+          {
+            "pos": 49,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458831,
+            "param2": 0,
+            "zmk": "&kp RIGHT"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "id": 1,
+        "name": "Windows",
+        "bindings": [
+          {
+            "pos": 0,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458793,
+            "param2": 0,
+            "zmk": "&kp ESC"
+          },
+          {
+            "pos": 1,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458782,
+            "param2": 0,
+            "zmk": "&kp N1"
+          },
+          {
+            "pos": 2,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458783,
+            "param2": 0,
+            "zmk": "&kp N2"
+          },
+          {
+            "pos": 3,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458784,
+            "param2": 0,
+            "zmk": "&kp N3"
+          },
+          {
+            "pos": 4,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458785,
+            "param2": 0,
+            "zmk": "&kp N4"
+          },
+          {
+            "pos": 5,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458786,
+            "param2": 0,
+            "zmk": "&kp N5"
+          },
+          {
+            "pos": 6,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458787,
+            "param2": 0,
+            "zmk": "&kp N6"
+          },
+          {
+            "pos": 7,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458788,
+            "param2": 0,
+            "zmk": "&kp N7"
+          },
+          {
+            "pos": 8,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458789,
+            "param2": 0,
+            "zmk": "&kp N8"
+          },
+          {
+            "pos": 9,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458790,
+            "param2": 0,
+            "zmk": "&kp N9"
+          },
+          {
+            "pos": 10,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458791,
+            "param2": 0,
+            "zmk": "&kp N0"
+          },
+          {
+            "pos": 11,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 12,
+            "behavior_id": 17,
+            "behavior_name": "Bluetooth",
+            "param1": 1,
+            "param2": 0,
+            "zmk": "&bt BT_NXT"
+          },
+          {
+            "pos": 13,
+            "behavior_id": 23,
+            "behavior_name": "homerow_mods_left",
+            "param1": 458976,
+            "param2": 458756,
+            "zmk": "&homerow_mods_left LCTRL A"
+          },
+          {
+            "pos": 14,
+            "behavior_id": 23,
+            "behavior_name": "homerow_mods_left",
+            "param1": 458978,
+            "param2": 458774,
+            "zmk": "&homerow_mods_left LALT S"
+          },
+          {
+            "pos": 15,
+            "behavior_id": 23,
+            "behavior_name": "homerow_mods_left",
+            "param1": 458976,
+            "param2": 458759,
+            "zmk": "&homerow_mods_left LCTRL D"
+          },
+          {
+            "pos": 16,
+            "behavior_id": 21,
+            "behavior_name": "hm_shift_l",
+            "param1": 458977,
+            "param2": 458761,
+            "zmk": "&hm_shift_l LSHIFT F"
+          },
+          {
+            "pos": 17,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 18,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458798,
+            "param2": 0,
+            "zmk": "&kp EQL"
+          },
+          {
+            "pos": 19,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458803,
+            "param2": 0,
+            "zmk": "&kp SEMI"
+          },
+          {
+            "pos": 20,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458797,
+            "param2": 0,
+            "zmk": "&kp MINUS"
+          },
+          {
+            "pos": 21,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458804,
+            "param2": 0,
+            "zmk": "&kp APOSTROPHE"
+          },
+          {
+            "pos": 22,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013236,
+            "param2": 0,
+            "zmk": "&kp DQT"
+          },
+          {
+            "pos": 23,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 24,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458977,
+            "param2": 0,
+            "zmk": "&kp LSHIFT"
+          },
+          {
+            "pos": 25,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 26,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 27,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 28,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 29,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 30,
+            "behavior_id": 27,
+            "behavior_name": "To Layer",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&to 0"
+          },
+          {
+            "pos": 31,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 32,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 33,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 34,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 35,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 36,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 37,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 38,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 39,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 40,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 41,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 42,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 43,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 44,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 45,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 46,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 47,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 48,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 49,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "id": 2,
+        "name": "Symbols",
+        "bindings": [
+          {
+            "pos": 0,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 1,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013214,
+            "param2": 0,
+            "zmk": "&kp EXCL"
+          },
+          {
+            "pos": 2,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013215,
+            "param2": 0,
+            "zmk": "&kp ATSN"
+          },
+          {
+            "pos": 3,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013216,
+            "param2": 0,
+            "zmk": "&kp HASH"
+          },
+          {
+            "pos": 4,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013217,
+            "param2": 0,
+            "zmk": "&kp DLLR"
+          },
+          {
+            "pos": 5,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013218,
+            "param2": 0,
+            "zmk": "&kp PRCNT"
+          },
+          {
+            "pos": 6,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013219,
+            "param2": 0,
+            "zmk": "&kp CRRT"
+          },
+          {
+            "pos": 7,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013220,
+            "param2": 0,
+            "zmk": "&kp AMPS"
+          },
+          {
+            "pos": 8,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013221,
+            "param2": 0,
+            "zmk": "&kp ASTRK"
+          },
+          {
+            "pos": 9,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013222,
+            "param2": 0,
+            "zmk": "&kp LPAR"
+          },
+          {
+            "pos": 10,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013223,
+            "param2": 0,
+            "zmk": "&kp RPAR"
+          },
+          {
+            "pos": 11,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013233,
+            "param2": 0,
+            "zmk": "&kp PIPE"
+          },
+          {
+            "pos": 12,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 13,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 14,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458799,
+            "param2": 0,
+            "zmk": "&kp LBKT"
+          },
+          {
+            "pos": 15,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458800,
+            "param2": 0,
+            "zmk": "&kp RBKT"
+          },
+          {
+            "pos": 16,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013231,
+            "param2": 0,
+            "zmk": "&kp LBRC"
+          },
+          {
+            "pos": 17,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013232,
+            "param2": 0,
+            "zmk": "&kp RBRC"
+          },
+          {
+            "pos": 18,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458798,
+            "param2": 0,
+            "zmk": "&kp EQL"
+          },
+          {
+            "pos": 19,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013229,
+            "param2": 0,
+            "zmk": "&kp UNDER"
+          },
+          {
+            "pos": 20,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458797,
+            "param2": 0,
+            "zmk": "&kp MINUS"
+          },
+          {
+            "pos": 21,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013230,
+            "param2": 0,
+            "zmk": "&kp PLUS"
+          },
+          {
+            "pos": 22,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013236,
+            "param2": 0,
+            "zmk": "&kp DQT"
+          },
+          {
+            "pos": 23,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458804,
+            "param2": 0,
+            "zmk": "&kp APOSTROPHE"
+          },
+          {
+            "pos": 24,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 25,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 26,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458800,
+            "param2": 0,
+            "zmk": "&kp RBKT"
+          },
+          {
+            "pos": 27,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013223,
+            "param2": 0,
+            "zmk": "&kp RPAR"
+          },
+          {
+            "pos": 28,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013233,
+            "param2": 0,
+            "zmk": "&kp PIPE"
+          },
+          {
+            "pos": 29,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458801,
+            "param2": 0,
+            "zmk": "&kp BSLH"
+          },
+          {
+            "pos": 30,
+            "behavior_id": 27,
+            "behavior_name": "To Layer",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&to 0"
+          },
+          {
+            "pos": 31,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 32,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458808,
+            "param2": 0,
+            "zmk": "&kp FSLH"
+          },
+          {
+            "pos": 33,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013240,
+            "param2": 0,
+            "zmk": "&kp QMARK"
+          },
+          {
+            "pos": 34,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458805,
+            "param2": 0,
+            "zmk": "&kp GRAV"
+          },
+          {
+            "pos": 35,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013237,
+            "param2": 0,
+            "zmk": "&kp TILD"
+          },
+          {
+            "pos": 36,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458804,
+            "param2": 0,
+            "zmk": "&kp APOSTROPHE"
+          },
+          {
+            "pos": 37,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 38,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 39,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 40,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 41,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 42,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 43,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 44,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 34013237,
+            "param2": 0,
+            "zmk": "&kp TILD"
+          },
+          {
+            "pos": 45,
+            "behavior_id": 29,
+            "behavior_name": "Transparent",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&trans"
+          },
+          {
+            "pos": 46,
+            "behavior_id": 5,
+            "behavior_name": "Key Press",
+            "param1": 458805,
+            "param2": 0,
+            "zmk": "&kp GRAV"
+          },
+          {
+            "pos": 47,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 48,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          },
+          {
+            "pos": 49,
+            "behavior_id": 26,
+            "behavior_name": "None",
+            "param1": 0,
+            "param2": 0,
+            "zmk": "&none"
+          }
+        ]
+      }
+    ]
+  },
+  "behaviors": {
+    "1": {
+      "display_name": "Mouse Key Press",
+      "param1_types": [
+        "constant"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "MB1",
+              "constant": 1,
+              "value_type": "constant"
+            },
+            {
+              "name": "MB2",
+              "constant": 2,
+              "value_type": "constant"
+            },
+            {
+              "name": "MB3",
+              "constant": 4,
+              "value_type": "constant"
+            },
+            {
+              "name": "MB4",
+              "constant": 8,
+              "value_type": "constant"
+            },
+            {
+              "name": "MB5",
+              "constant": 16,
+              "value_type": "constant"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "2": {
+      "display_name": "mouse_move",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "3": {
+      "display_name": "mouse_scroll",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "4": {
+      "display_name": "Caps Word",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "5": {
+      "display_name": "Key Press",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "6": {
+      "display_name": "Grave/Escape",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "7": {
+      "display_name": "homerow_mods",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [
+        "hid_usage"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ]
+        }
+      ]
+    },
+    "8": {
+      "display_name": "Key Repeat",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "9": {
+      "display_name": "Key Toggle",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "10": {
+      "display_name": "Mod-Tap",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [
+        "hid_usage"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ]
+        }
+      ]
+    },
+    "11": {
+      "display_name": "Output Selection",
+      "param1_types": [
+        "constant"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Toggle Outputs",
+              "constant": 0,
+              "value_type": "constant"
+            },
+            {
+              "name": "USB Output",
+              "constant": 1,
+              "value_type": "constant"
+            },
+            {
+              "name": "BLE Output",
+              "constant": 2,
+              "value_type": "constant"
+            },
+            {
+              "name": "No Output",
+              "constant": 3,
+              "value_type": "constant"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "12": {
+      "display_name": "Sticky Key",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "13": {
+      "display_name": "Momentary Layer",
+      "param1_types": [
+        "layer_id"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Layer",
+              "layer_id": {},
+              "value_type": "layer_id"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "14": {
+      "display_name": "Sticky Layer",
+      "param1_types": [
+        "layer_id"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Layer",
+              "layer_id": {},
+              "value_type": "layer_id"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "15": {
+      "display_name": "Studio Unlock",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "16": {
+      "display_name": "Reset",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "17": {
+      "display_name": "Bluetooth",
+      "param1_types": [
+        "constant"
+      ],
+      "param2_types": [
+        "range"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Next Profile",
+              "constant": 1,
+              "value_type": "constant"
+            },
+            {
+              "name": "Previous Profile",
+              "constant": 2,
+              "value_type": "constant"
+            },
+            {
+              "name": "Clear All Profiles",
+              "constant": 4,
+              "value_type": "constant"
+            },
+            {
+              "name": "Clear Selected Profile",
+              "constant": 0,
+              "value_type": "constant"
+            }
+          ],
+          "param2": []
+        },
+        {
+          "param1": [
+            {
+              "name": "Select Profile",
+              "constant": 3,
+              "value_type": "constant"
+            },
+            {
+              "name": "Disconnect Profile",
+              "constant": 5,
+              "value_type": "constant"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Profile",
+              "range": {
+                "max": 5,
+                "min": 0
+              },
+              "value_type": "range"
+            }
+          ]
+        }
+      ]
+    },
+    "18": {
+      "display_name": "Bootloader",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "19": {
+      "display_name": "enc_key_press",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "20": {
+      "display_name": "External Power",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "21": {
+      "display_name": "hm_shift_l",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [
+        "hid_usage"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ]
+        }
+      ]
+    },
+    "22": {
+      "display_name": "hm_shift_r",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [
+        "hid_usage"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ]
+        }
+      ]
+    },
+    "23": {
+      "display_name": "homerow_mods_left",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [
+        "hid_usage"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ]
+        }
+      ]
+    },
+    "24": {
+      "display_name": "homerow_mods_right",
+      "param1_types": [
+        "hid_usage"
+      ],
+      "param2_types": [
+        "hid_usage"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ]
+        }
+      ]
+    },
+    "25": {
+      "display_name": "Layer-Tap",
+      "param1_types": [
+        "layer_id"
+      ],
+      "param2_types": [
+        "hid_usage"
+      ],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Layer",
+              "layer_id": {},
+              "value_type": "layer_id"
+            }
+          ],
+          "param2": [
+            {
+              "name": "Key",
+              "hid_usage": {
+                "keyboard_max": 255,
+                "consumer_max": 4095
+              },
+              "value_type": "hid_usage"
+            }
+          ]
+        }
+      ]
+    },
+    "26": {
+      "display_name": "None",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    },
+    "27": {
+      "display_name": "To Layer",
+      "param1_types": [
+        "layer_id"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Layer",
+              "layer_id": {},
+              "value_type": "layer_id"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "28": {
+      "display_name": "Toggle Layer",
+      "param1_types": [
+        "layer_id"
+      ],
+      "param2_types": [],
+      "metadata": [
+        {
+          "param1": [
+            {
+              "name": "Layer",
+              "layer_id": {},
+              "value_type": "layer_id"
+            }
+          ],
+          "param2": []
+        }
+      ]
+    },
+    "29": {
+      "display_name": "Transparent",
+      "param1_types": [],
+      "param2_types": [],
+      "metadata": []
+    }
+  }
+}
