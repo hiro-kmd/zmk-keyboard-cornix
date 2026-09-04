@@ -70,12 +70,29 @@ class Fail(Exception):
         self.code = code
 
 
-def say(msg=""):
+def _default_say(msg):
     print(msg, flush=True)
 
 
-def warn(msg):
+def _default_warn(msg):
     print(f"[注意] {msg}", file=sys.stderr, flush=True)
+
+
+_OUTPUT = {"say": _default_say, "warn": _default_warn}
+
+
+def set_output(say_fn=None, warn_fn=None):
+    """Redirect all user-facing messages (used by the GUI)."""
+    _OUTPUT["say"] = say_fn or _default_say
+    _OUTPUT["warn"] = warn_fn or _default_warn
+
+
+def say(msg=""):
+    _OUTPUT["say"](msg)
+
+
+def warn(msg):
+    _OUTPUT["warn"](msg)
 
 
 # --------------------------------------------------------------------------
@@ -765,14 +782,29 @@ def cmd_verify(args):
     return EXIT_OK if not changes else EXIT_MISMATCH
 
 
+def cli_confirm(writes, changes, live, snap):
+    say("")
+    answer = input("この内容でキーボードに書き込みますか? [yes/No]: ").strip().lower()
+    return answer in ("y", "yes")
+
+
 def cmd_restore(args):
     ref = snapshot_ref(args)
     snap = load_snapshot(ref)
     dev = Device(choose_port(args.port))
+    return do_restore(dev, snap, ref, dry_run=args.dry_run, discard_unsaved=args.discard_unsaved,
+                      force=args.force, allow_raw_ids=args.allow_raw_ids,
+                      confirm=None if args.yes else cli_confirm)
+
+
+def do_restore(dev, snap, ref, dry_run=False, discard_unsaved=False, force=False,
+               allow_raw_ids=False, confirm=None):
+    """Restore `snap` onto `dev`. `confirm(writes, changes, live, snap)` may veto
+    the write; None means proceed without asking. Returns an EXIT_* code."""
     dev.ensure_unlocked()
 
     if dev.unsaved():
-        if not args.discard_unsaved:
+        if not discard_unsaved:
             raise Fail(EXIT_UNSAVED,
                        "キーボードに未保存の変更があります。ZMK Studio で Save するか、"
                        "捨ててよければ --discard-unsaved を付けてください。")
@@ -786,7 +818,7 @@ def cmd_restore(args):
         warn(f"別の個体です: snapshot serial={snap['device']['serial_hex']} / "
              f"接続中 serial={live['device']['serial_hex']}")
 
-    writes, notes = plan_restore(snap, live, dev.behaviors(), args.force, args.allow_raw_ids)
+    writes, notes = plan_restore(snap, live, dev.behaviors(), force, allow_raw_ids)
     for n in notes:
         warn(n)
 
@@ -803,16 +835,13 @@ def cmd_restore(args):
         say("キーボードは既にこのスナップショットと一致しています。何もしません。")
         return EXIT_OK
 
-    if args.dry_run:
+    if dry_run:
         say("\n[dry-run] RAM 上に書き込んで読み戻し確認後、discard します (フラッシュは変更しません)")
-    elif not args.yes:
-        say("")
-        answer = input("この内容でキーボードに書き込みますか? [yes/No]: ").strip().lower()
-        if answer not in ("y", "yes"):
-            say("中止しました。")
-            return EXIT_USAGE
+    elif confirm is not None and not confirm(writes, changes, live, snap):
+        say("中止しました。")
+        return EXIT_USAGE
 
-    if not args.dry_run:
+    if not dry_run:
         _, pre_dir = do_backup(dev, note="restore 前の自動バックアップ", suffix="pre-restore",
                                update_latest=False)
         say(f"復元前バックアップ: {pre_dir}")
@@ -840,7 +869,7 @@ def cmd_restore(args):
         raise Fail(EXIT_MISMATCH, f"読み戻しが一致しないため取り消しました (フラッシュは無変更):\n  {detail}")
     say("読み戻し確認 OK")
 
-    if args.dry_run:
+    if dry_run:
         ok = dev.safe_discard()
         still = dev.unsaved()
         say(f"discard 完了。未保存フラグ: {still}")
